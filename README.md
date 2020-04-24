@@ -50,4 +50,4 @@ Similar to auto-fill on most phones
       chocolate pie
       persimmon
       
-      Have fun text predicting!.
+      Have fun text predicting!
